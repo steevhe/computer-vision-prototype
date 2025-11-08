@@ -1,0 +1,10 @@
+# Google Gemini API
+google-generativeai>=0.3.0
+
+# Other dependencies
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+requests>=2.31.0
+
+# Web Framework
+streamlit>=1.50.0
